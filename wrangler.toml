@@ -1,6 +1,0 @@
-name = "cfnewup-jwq"
-compatibility_date = "2026-01-20"
-
-[[kv_namespaces]]
-binding = "c"
-id = "23ba5a74410142faa79e1849e6ab5410"
